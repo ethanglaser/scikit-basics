@@ -1,0 +1,18 @@
+Machine Learning Process:
+Take raw data and prepare/clean it - convert to numeric
+Determine algorithm to use and train it using the data
+Examine model and use validation method to evaluate, update/repeat as needed
+Use model on new data to make predictions
+
+Scikit has tools for every step along the way:
+Interoperates with Pandas, Numpy
+standardization/normalization/scaling, string conversions, filling missing data
+several validation options depending on the model
+fit and predict functions with model
+pipelines more advanced
+
+Choosing the right estimator:
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+
+
